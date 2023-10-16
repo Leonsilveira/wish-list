@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_1119514_lista_de.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_1119514_lista_de.user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 14:30:28</sys_created_on>
+        <sys_id>a93e2776c3f53110638b753ce00131a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1119514_lista_de.user</sys_name>
+        <sys_package display_value="Lista de desejos" source="x_1119514_lista_de">1d62afb2c3b53110638b753ce00131ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista de desejos">1d62afb2c3b53110638b753ce00131ce</sys_scope>
+        <sys_update_name>sys_user_role_a93e2776c3f53110638b753ce00131a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 14:30:28</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Lista de desejos">1d62afb2c3b53110638b753ce00131ce</application>
+        <file_path/>
+        <instance_id>5c3bc6251b498d90e84d2f8dee4bcbd8</instance_id>
+        <instance_name>dev121391</instance_name>
+        <name>sys_user_role_a93e2776c3f53110638b753ce00131a8</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description/><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_1119514_lista_de.user</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>x_1119514_lista_de.user</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-10-14 14:30:28</sys_created_on><sys_id>a93e2776c3f53110638b753ce00131a8</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1119514_lista_de.user</sys_name><sys_package display_value="Lista de desejos" source="x_1119514_lista_de">1d62afb2c3b53110638b753ce00131ce</sys_package><sys_policy/><sys_scope display_value="Lista de desejos">1d62afb2c3b53110638b753ce00131ce</sys_scope><sys_update_name>sys_user_role_a93e2776c3f53110638b753ce00131a8</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-10-14 14:30:28</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-819884281</payload_hash>
+        <record_name>x_1119514_lista_de.user</record_name>
+        <reverted_from/>
+        <source>d162a73ac3b53110638b753ce00131cf</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 14:30:28</sys_created_on>
+        <sys_id>a93e2776c3f53110638b753ce00131ad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18b2e9881670000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 14:30:28</sys_updated_on>
+        <type>Role</type>
+        <update_guid>ed3e2776f0f5311010fabe90c5c1aaac</update_guid>
+        <update_guid_history>ed3e2776f0f5311010fabe90c5c1aaac:-819884281</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_1119514_lista_de.user">9d54dfe3c3f93110638b753ce00131b7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-16 20:32:50</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>51b53a59566a41c09ab10e7a02d52924</sys_id>
+        <sys_metadata>a93e2776c3f53110638b753ce00131a8</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1119514_lista_de.user</sys_name>
+        <sys_package display_value="Lista de desejos" source="x_1119514_lista_de">1d62afb2c3b53110638b753ce00131ce</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Lista de desejos">1d62afb2c3b53110638b753ce00131ce</sys_scope>
+        <sys_scope_delete display_value="">0b75e02d644749dd891ca6aa3dd538e9</sys_scope_delete>
+        <sys_update_name>sys_user_role_a93e2776c3f53110638b753ce00131a8</sys_update_name>
+        <sys_update_version display_value="sys_user_role_a93e2776c3f53110638b753ce00131a8">a93e2776c3f53110638b753ce00131ad</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-16 20:32:50</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
