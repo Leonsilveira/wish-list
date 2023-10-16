@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1119514_lista_de.user" name="x_1119514_lista_de.user">a93e2776c3f53110638b753ce00131a8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-14 14:30:28</sys_created_on>
+        <sys_id>2d3e2776c3f53110638b753ce00131ab</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a93e2776c3f53110638b753ce00131a8</sys_name>
+        <sys_package display_value="Lista de desejos" source="x_1119514_lista_de">1d62afb2c3b53110638b753ce00131ce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Lista de desejos">1d62afb2c3b53110638b753ce00131ce</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2d3e2776c3f53110638b753ce00131ab</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-14 14:30:28</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
